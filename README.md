@@ -10,6 +10,10 @@ The case studies are about finding the information needed quickly rather than re
 Read the question, jump to the section it mentions, grab the answer.
 If the question asks which answer meets the technical requirements. You only usually need to find the one related line in the technical requirements section. The rest is just time wasting fluff.
 
+## Available services by region types and categories
+
+https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category
+
 https://www.linkedin.com/posts/neerajtrainer_compute-case-study-activity-6991273131885670401-Uz2l/
 
 ## Time Management
