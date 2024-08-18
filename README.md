@@ -19,3 +19,6 @@ https://www.linkedin.com/posts/neerajtrainer_compute-case-study-activity-6991273
 ## Time Management
 Time Management is key to passing the exam, the case studies will take a lot of time to read and answer, so make sure you don’t get stuck on any question, you either know it or don’t, move on to the next one and review the questions later. Also Mind that case studies and Labs can take a lot more time than multi-choice questions. Check the clock all the times and be conscious about many questions are remaining and see time per question, so that you don't miss out on answering any questions.
 
+## Answer all questions
+Flag the questions whose answers you dont know, you will be shown those questions in last and make sure you answer them, because there is no negative marking.
+
